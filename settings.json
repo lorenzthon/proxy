@@ -1,0 +1,6 @@
+{
+  "http": true,
+  "socks": true,
+  "timeout": 30,
+  "threads": 100
+}
